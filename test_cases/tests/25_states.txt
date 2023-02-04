@@ -1,0 +1,54 @@
+A B C D E F G H I J K L M N O P R S T U V W X Y Z
+a b
+A
+H
+A a E
+A b D
+B a C
+B b A
+C a A
+C b G
+D a H
+D b B
+E a G
+E b C
+F a B
+F b D
+G a H
+G b F
+H a E
+H b I
+I a J
+I b D
+J a L
+J b K
+K a I
+K b A
+L a M
+L b N
+M a E
+M b O
+N a G
+N b M
+O a F
+O b P
+P a K
+P b R
+R a B
+R b S
+S a M
+S b T
+T a U
+T b V
+U a F
+U b W
+V a P
+V b W
+W a Y
+W b X
+X a Z
+X b H
+Y a Z
+Y b R
+Z a T
+Z b O

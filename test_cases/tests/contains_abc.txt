@@ -1,0 +1,16 @@
+A B C D
+a b c
+A
+D
+A a B
+A b A
+A c A
+B a B
+B b C
+B c A
+C a B
+C b A
+C c D
+D a D
+D b D
+D c D

@@ -1,0 +1,12 @@
+The DFA is represented as follows:
+- first line is the set of states (Q)
+- second line is the alphabet (sigma)
+- third line is the start state
+- fourth line is the set of accepting states
+
+Then each line after that describes a transition in the transition function (delta).
+In each line there are three characters: q1, c, q2 and their meaning is that delta(q1, c) = q2.
+
+The set of states (first line of input) must be provided in lexicographical order.
+All values must be separated by space character.
+All state names must consist only of a single letter.

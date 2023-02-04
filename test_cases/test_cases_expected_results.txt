@@ -1,0 +1,13 @@
+"at_least_2_b.txt"            -> "bb"
+"even_b_count.txt"            -> "automaton is not synchronizing"
+"even_a_and_even_b_count.txt" -> "automaton is not synchronizing"
+"contains_abc.txt"            -> "abc"
+"8_states.txt"                -> "aaaabba"
+"1_state.txt"                 -> ""
+"1_letter.txt"                -> "a"
+
+"25_states.txt" - only to check how fast the program works - i created this automaton
+without much thinking and i don't know that the shortest synchronizing word is.
+this test shows the laziness in haskell, because the test runs surprisingly fast,
+but when i ask to print the length of the power DFA states list, it takes much more time.
+it is, after all, a list of 2^25 elements.
